@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <script src="game.js"></script>
+</html>
+</html>
+<--<!DOCTYPE html>
+<html>
+<head>
+  <title>Car Game</title>
+  <style>
+    /* Add some basic styling to make the game look nicer */
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+    #game-container {
+      width: 800px;
+      height: 600px;
+      border: 1px solid black;
+      margin: 40px auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="game-container"></div
+    <!-- The car will be moved across the screen by JavaScript -->
+    <div class="car" style="position: absolute; top: 0; left: 0;">
+      <!-- Car graphics will go here -->
+      <img src="car.png" alt="Car" width="50" height="50">
+    </div>
+  </div>
+
+  <!-- Add some road elements to make the game more interesting -->
+  <div class="road" style="position: absolute; top: 0; left: 0;">
+    <div class="lane" style="width: 50px; height: 600px; background-color: #ccc;"></div>
+    <div class="lane" style="width: 50px; height: 600px; background-color: #ccc;"></div>
+    <!-- Add more lanes as needed -->
+  </div>
+
+  <!-- Add some obstacles to make the game more challenging -->
+  <div class="obstacle" style="position: absolute; top: 100px; left: 200px;">
+    <img src="obstacle.png" alt="Obstacle" width="20" height="20">
+  </div>
+
+  <!-- Add some scorekeeping elements -->
+  <div id="score" style="position: absolute; top: 10px; right: 10px;">
+    Score: <span id="score-count">0</span>
+  </div>
+
+  <!-- Add some buttons to control the car -->
+  <button id="left-btn">Left</button>
+  <button id="right-btn">Right</button>
+
+  <!-- Add some JavaScript code to make the game interactive -->
+  <script src="game.js"></script>
+</body>
+</html>-->
+</body>
+</html>
